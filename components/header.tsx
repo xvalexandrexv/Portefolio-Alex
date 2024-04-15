@@ -49,7 +49,7 @@ const { activeSection, setActiveSection, setTimeOfLastClick } = useActiveSection
 
                                 {
                                     link.name === activeSection && (
-                                    <motion.span className="bg-gray-100 rounded-full absolute inset-0
+                                    <motion.span className="bg-gray-500 rounded-full absolute inset-0
                                     -z-10"
                                     layoutId="activeSection"
                                     transition={{

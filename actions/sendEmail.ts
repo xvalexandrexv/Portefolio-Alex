@@ -1,6 +1,5 @@
 "use server";
 
-import { error } from "console";
 import { Resend } from "resend";
 import { validateString, getErrorMesage } from "@/lib/utils";
 import ContactformEmail from "@/email/contact-form-email";

@@ -58,10 +58,10 @@ export default function Intro() {
       animate={{ opacity: 1, y: 0 }}
       >
       <span className="font-bold">Hello, Im Alexandre.</span> Im a{" "}
-        <span className="font-bold">full-stack developer</span> with{" "}
-        <span className="font-bold">8 years</span> of experience. I enjoy
+        <span className="font-bold">Junior full-stack developer.</span>{" "}
+        <span className="font-bold"></span> I enjoy
         building <span className="italic">sites & apps</span>. My focus is{" "}
-        <span className="underline">React (Next.js)</span>.
+        <span className="underline">put into practice everithing i learned during the bootcamp.</span>.
       </motion.h1>
 
       <motion.div className="flex flex-col sm:flex-row 

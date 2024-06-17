@@ -28,7 +28,7 @@ export default function Intro() {
             type: "tween",
             duration: 0.3,
           }}>
-          <Image src="https://media.licdn.com/dms/image/D4D03AQGN2YDThY9I2A/profile-displayphoto-shrink_800_800/0/1706112266840?e=1717632000&v=beta&t=fNBnPxU3tCIK6wzNnVswv7ABWhXgM1f89HdCYP_NrGc" 
+          <Image src="https://media.licdn.com/dms/image/D4D03AQHxhakDheOHHg/profile-displayphoto-shrink_800_800/0/1718652957628?e=1724284800&v=beta&t=2xp3Ibur6aw26y61Cy-O6cYodj7XSBrgMrH7AqvnpCw" 
           alt="Alexandre portratit"
           width="192"
           height="192"

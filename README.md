@@ -1,6 +1,6 @@
 # My Portfolio
 
-A modern and responsive portfolio website built with Next.js, React, Tailwind CSS, and Framer Motion. This project showcases my skills, projects, and contact information in a sleek and interactive manner.
+A modern and responsive portfolio website built with Next.js, JavaScript, React, Tailwind CSS, and Framer Motion and hosted by Vercel. This project showcases my skills, projects, and contact information in a sleek and interactive manner.
 
 ## Table of Contents
 - [Features](#features)

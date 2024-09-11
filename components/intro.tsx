@@ -29,6 +29,7 @@ export default function Intro() {
             duration: 0.3,
           }}>
           <Image src="https://media.licdn.com/dms/image/v2/D4D03AQHxhakDheOHHg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1718652957668?e=1731542400&v=beta&t=-VKtXtcCzkwTlPPRWWa3qOtOhSHAbAhKrLosYGbu75w"
+          alt="Alexandre portratit"
           width="192"
           height="192"
           quality="95"
